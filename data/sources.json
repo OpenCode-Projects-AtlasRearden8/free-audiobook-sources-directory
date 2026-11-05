@@ -1,0 +1,132 @@
+{
+  "title": "The Freebie Audiobook Directory",
+  "subtitle": "Legal free audiobooks, explained like a friend would",
+  "sources": [
+    {
+      "name": "LibriVox",
+      "url": "https://librivox.org",
+      "category": "always-free",
+      "device": "Any web browser, podcast apps (Apple Podcasts, Spotify, etc.), iOS/Android apps, smart speakers",
+      "review": "Volunteers narrating every public-domain classic — the quality is a grab-bag, but the price is exactly right.",
+      "cost": "Free forever, no account needed",
+      "verdict": ""
+    },
+    {
+      "name": "Libby (with your library card)",
+      "url": "https://libbyapp.com",
+      "category": "library-app",
+      "device": "iOS, Android, Fire tablets, any web browser, Apple CarPlay / Android Auto",
+      "review": "Real new-release audiobooks, free, straight through the library card you already own — just expect a waitlist on the hot titles.",
+      "cost": "Free with a library card (holds queue, ~20 loans at a time depending on library)",
+      "verdict": ""
+    },
+    {
+      "name": "Hoopla (with your library card)",
+      "url": "https://www.hoopladigital.com",
+      "category": "library-app",
+      "device": "iOS, Android, web browsers, Roku/Apple TV/Android TV, Apple CarPlay / Android Auto",
+      "review": "Libby's no-wait sibling: instant borrows every month, so grab the niche titles here and let Libby handle the bestsellers.",
+      "cost": "Free with a library card (limited monthly borrows, instant checkout, no holds)",
+      "verdict": ""
+    },
+    {
+      "name": "Internet Archive: Audio Books & Poetry",
+      "url": "https://archive.org/details/audio_bookspoetry",
+      "category": "always-free",
+      "device": "Any web browser; downloadable MP3s for offline play on any device",
+      "review": "A giant attic of public-domain readings and LibriVox mirrors — dusty, un-looked-after, and full of treasures you won't find anywhere else.",
+      "cost": "Free forever, no account needed",
+      "verdict": ""
+    },
+    {
+      "name": "Loyal Books",
+      "url": "https://www.loyalbooks.com",
+      "category": "always-free",
+      "device": "Any web browser, iOS/Android app, podcast apps",
+      "review": "LibriVox with friendlier packaging plus its own picks — the easiest first stop if app-based browsing beats digging through archives.",
+      "cost": "Free forever",
+      "verdict": ""
+    },
+    {
+      "name": "Lit2Go",
+      "url": "https://etc.usf.edu/lit2go/",
+      "category": "always-free",
+      "device": "Any web browser, podcast apps (iTunes feed), downloadable MP3s",
+      "review": "An educator-run reading collection with printable transcripts and reading levels — weirdly great for ESL learners and kids.",
+      "cost": "Free forever, no account needed",
+      "verdict": ""
+    },
+    {
+      "name": "Open Culture: Free Audiobooks",
+      "url": "https://www.openculture.com/freeaudiobooks",
+      "category": "always-free",
+      "device": "Any web browser (links out to MP3s and podcast feeds that play anywhere)",
+      "review": "A curated list of 1,000+ free classic audiobooks — the connoisseur's shortcut when you want the cream skimmed for you.",
+      "cost": "Free forever, no account needed",
+      "verdict": ""
+    },
+    {
+      "name": "Welcome to Night Vale",
+      "url": "https://www.welcometonightvale.com",
+      "category": "podcast-fiction",
+      "device": "Podcast apps (Apple Podcasts, Spotify, Pocket Casts, etc.), any web browser",
+      "review": "Community radio from a desert town where every conspiracy is true — the reigning king of free podcast fiction, period.",
+      "cost": "Back catalog free in podcast apps; paid live events and books exist but are optional",
+      "verdict": ""
+    },
+    {
+      "name": "The Magnus Archives (Rusty Quill)",
+      "url": "https://rustyquill.com/the-magnus-archives/",
+      "category": "podcast-fiction",
+      "device": "Podcast apps, any web browser, offline via podcast downloads",
+      "review": "Starts as spooky-but-tidy horror stories, quietly knits itself into one of the best long-form audio dramas ever made.",
+      "cost": "Back catalog free in podcast apps; ad-free/early-access tiers are optional",
+      "verdict": ""
+    },
+    {
+      "name": "Escape Pod",
+      "url": "https://escapepod.org",
+      "category": "podcast-fiction",
+      "device": "Podcast apps, any web browser, downloadable MP3s",
+      "review": "Weekly free science-fiction short fiction read aloud — magazine-quality stories in bookshelf-sized listening bites.",
+      "cost": "Free; reader/supporter extras are optional",
+      "verdict": ""
+    },
+    {
+      "name": "Audible free trial",
+      "url": "https://www.audible.com/ep/freetrial",
+      "category": "trial",
+      "device": "iOS, Android, Windows/Mac apps, CarPlay/Android Auto, Fire tablets, Sonos — widest device coverage anywhere",
+      "review": "The trial is genuinely free for 30 days and lands 1 credit, so binge one big audiobook for nothing, then set a reminder to cancel the same day you sign up.",
+      "cost": "30 days free (typically 1 credit), then a monthly subscription",
+      "verdict": "Worth it — if you cancel the same day you sign up; skipping is fine because Libby covers most new releases anyway."
+    },
+    {
+      "name": "Spotify Premium",
+      "url": "https://www.spotify.com",
+      "category": "trial",
+      "device": "iOS, Android, web, desktop apps, game consoles, smart speakers — basically everything",
+      "review": "Premium includes a monthly audiobook listening allowance alongside every song ever, so trial it and see if the bundle actually fits your ears.",
+      "cost": "Free tier exists (ads, shuffle); Premium trial available; Premium includes an audiobook-hours allowance",
+      "verdict": "Worth trying — the music bundle means it almost certainly won't go to waste; check current audiobook terms on the signup page."
+    },
+    {
+      "name": "Everand (formerly Scribd)",
+      "url": "https://www.everand.com",
+      "category": "trial",
+      "device": "iOS, Android, any web browser, offline downloads",
+      "review": "It's Netflix-shaped for books, but with a smaller library than Spotify or Libby — trial only if you can already name three titles you'd finish this month.",
+      "cost": "Free trial available, then a monthly subscription",
+      "verdict": "Skippable — unless you already have a binge list, Libby and Hoopla will fill in fine."
+    },
+    {
+      "name": "Chirp",
+      "url": "https://www.chirpbooks.com",
+      "category": "trial",
+      "device": "iOS, Android, web player, Apple CarPlay / Android Auto",
+      "review": "Not a trial at all: a free app that blasts daily $0.99-$4.99 audiobook deals to your inbox, no subscription ever.",
+      "cost": "Free app and accounts; you just buy the deals you want",
+      "verdict": "Worth keeping — the only entry here with zero strings and zero guilt."
+    }
+  ]
+}
